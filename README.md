@@ -68,9 +68,7 @@ A hands-on Windows Server 2022 homelab built in VMware Workstation Pro to learn 
 
 See:
 
-```text
-docs/phase1.md
-```
+[Phase 1 Documentation](docs/phase1.md)
 
 ### Phase 2 – Users and Groups
 
@@ -81,9 +79,7 @@ docs/phase1.md
 
 See:
 
-```text
-docs/phase2-users-and-groups.md
-```
+[Phase 2 Documentation](docs/phase2-users-and-groups.md)
 
 ---
 
